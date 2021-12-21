@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Shivam</h2>
+### Hi there 👋<h2> I'm Maximiliano Iván Fernandez</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -6,39 +6,39 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Estúdio Tecnicatura Universitaria en Programación en la  Universidad Tecnológica Nacioanl.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Aprendo sobre tecnologías todos los dias.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
-
-
-<h3>🛠 Tech Stack</h3>
+- ✍️ &nbsp; Desarrollo Web es mi pasión.
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+<h3>🛠 Habilidades</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+
+
+- 💻 &nbsp; Laravel | C# | C 
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular13
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; MySQL | MongoDB | SQL Server
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🔧 &nbsp; Git 
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🖥 &nbsp; Illustrator| Photoshop 
 
 -->
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 Aprendiendo</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; Docker🐳 | Firebase | MongoDB | NodeJS
 
 <hr>
 
