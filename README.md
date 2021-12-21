@@ -64,7 +64,7 @@
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Contactate conmigo </h3>
 
 <br>
 
@@ -74,17 +74,10 @@
 
 <a href="https://www.linkedin.com/in/maximiliano-ivan-fernandez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maxi%20Fernandez-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
-
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:fmaximiliano443@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fmaximiliano443@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
-
-
-
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
