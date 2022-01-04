@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
 
-- 🎓 &nbsp; Estúdio Tecnicatura Universitaria en Programación en la  Universidad Tecnológica Nacioanl.
+- 🎓 &nbsp; Estudio Tecnicatura Universitaria en Programación en la  Universidad Tecnológica Nacioanl.
 
 - 🌱 &nbsp; Aprendo sobre tecnologías todos los dias.
 
