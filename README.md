@@ -8,9 +8,9 @@
 
 - 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
 
-- 🎓 &nbsp; Estudio Tecnicatura Universitaria en Programación en la  Universidad Tecnológica Nacioanl.
+- 🎓 &nbsp; Estudio Tecnicatura Universitaria en Programación en la  Universidad Tecnológica Nacional.
 
-- 🌱 &nbsp; Aprendo sobre tecnologías todos los dias.
+- 🌱 &nbsp; Aprendo sobre tecnologías todos los días.
 
 - ✍️ &nbsp; Desarrollo Web es mi pasión.
 
@@ -22,11 +22,11 @@
 
 - 💻 &nbsp; Laravel | C# | C 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular13
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | Bootstrap | Angular13
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB | SQL Server
+- 🛢 &nbsp; MySQL | SQL Server
 
 - 🔧 &nbsp; Git 
 
