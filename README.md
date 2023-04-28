@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
 
-- 🎓 &nbsp; Estudio Tecnicatura Universitaria en Programación en la  Universidad Tecnológica Nacional.
+- 🎓 &nbsp; Graduado de Técnico Universitario en Programación en la Universidad Tecnológica Nacional.
 
 - 🌱 &nbsp; Aprendo sobre tecnologías todos los días.
 
