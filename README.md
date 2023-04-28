@@ -1,4 +1,4 @@
-### Holaa! 👋<h2> Soy Maximiliano Iván Fernandez</h2>
+### Hola! 👋<h2> Soy Maximiliano Iván Fernandez</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -28,7 +28,7 @@
 
 - 🛢 &nbsp; MySQL | SQL Server
 
-- 🔧 &nbsp; Git 
+- 🔧 &nbsp; Git | Azure DevOps
 
 - 🖥 &nbsp; Illustrator| Photoshop 
 
@@ -38,7 +38,7 @@
 
 <h3>🛠 Aprendiendo</h3>
 
-- 🔧 &nbsp; Data Analyst | Python | 
+- 🔧 &nbsp; Data Analyst | Python
 
 <hr>
 
