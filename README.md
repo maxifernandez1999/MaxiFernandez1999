@@ -20,9 +20,9 @@
 
 
 
-- 💻 &nbsp; Laravel | C# | C 
+- 💻 &nbsp; Node JS | .NET | C | Firebase | Docker🐳
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | Bootstrap | Angular13
+- 🌐 &nbsp; HTML/CSS/JS | Angular15 | Angular Material | TypeScript | Bootstrap 
 
 <!--
 
@@ -38,7 +38,7 @@
 
 <h3>🛠 Aprendiendo</h3>
 
-- 🔧 &nbsp; Docker🐳 | Firebase | MongoDB | NodeJS
+- 🔧 &nbsp; Data Analyst | Python | 
 
 <hr>
 
