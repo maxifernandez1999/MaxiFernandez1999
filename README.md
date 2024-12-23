@@ -6,13 +6,13 @@
 
 
 
-- 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
+- 👨🏼‍💻 &nbsp; Desarrollador de Software especializado en back-end.
 
 - 🎓 &nbsp; Graduado de Técnico Universitario en Programación en la Universidad Tecnológica Nacional.
 
 - 🌱 &nbsp; Aprendo sobre tecnologías todos los días.
 
-- ✍️ &nbsp; Desarrollo Web es mi pasión.
+- ✍️ &nbsp; Desarrollo web del lado del servidor es mi pasión.
 
 
 
@@ -20,9 +20,9 @@
 
 
 
-- 💻 &nbsp; Node JS | .NET | C | Firebase | Docker🐳
+- 💻 &nbsp; .NET | C# | SQL Server | Docker🐳
 
-- 🌐 &nbsp; HTML/CSS/JS | Angular15 | Angular Material | TypeScript | Bootstrap 
+- 🌐 &nbsp; HTML/CSS/TS | Angular19
 
 <!--
 
