@@ -28,24 +28,11 @@
 
 - 🔧 &nbsp; Git | Azure DevOps
 
-
 <hr>
-
-<br/>
-
-<br/>
-
-<br><br>
-
-
-<hr>
-
-
 
 <h3> 🤝🏻 Contactate conmigo </h3>
 
 <br>
-
 
 
 <p align="center">
@@ -55,11 +42,6 @@
 <a href="mailto:fmaximiliano443@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fmaximiliano443@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
-
-
-
-
-
 
 <hr>
 
